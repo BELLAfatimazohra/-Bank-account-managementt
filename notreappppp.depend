@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704665084 source:c:\users\info\documents\langague c\notreappppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
